@@ -46,6 +46,10 @@ python -m forecasting.run     # writes the memo, chart, forecast.csv and backtes
 pytest
 ```
 
+## Walkthrough
+
+- [ ] 3-minute Loom walkthrough ([script ready](docs/walkthrough.md))
+
 ## Stack
 
 Python, pandas, NumPy, statsmodels (Holt-Winters), matplotlib, pytest.
